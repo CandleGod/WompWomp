@@ -1,0 +1,7 @@
+C:\Users\wbill\source\repos\calculator\Method calculator excercise\obj\Debug\Method calculator excercise.csproj.AssemblyReference.cache
+C:\Users\wbill\source\repos\calculator\Method calculator excercise\obj\Debug\Method calculator excercise.csproj.CoreCompileInputs.cache
+C:\Users\wbill\source\repos\calculator\Method calculator excercise\bin\Debug\Method calculator excercise.exe.config
+C:\Users\wbill\source\repos\calculator\Method calculator excercise\bin\Debug\Method calculator excercise.exe
+C:\Users\wbill\source\repos\calculator\Method calculator excercise\bin\Debug\Method calculator excercise.pdb
+C:\Users\wbill\source\repos\calculator\Method calculator excercise\obj\Debug\Method calculator excercise.exe
+C:\Users\wbill\source\repos\calculator\Method calculator excercise\obj\Debug\Method calculator excercise.pdb
