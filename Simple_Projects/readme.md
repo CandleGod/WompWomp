@@ -1,3 +1,3 @@
-# Welcome to Womp^2
-*This is a practice github repository for CandleGod*
+# Womp^2 Simple Projects
+*Simple Projects that have nothing to do with school*
 ___
